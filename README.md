@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub
 
-<!--
-**whitefox-lab/whitefox-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer and open-source enthusiast.  
+I love writing clean code and learning something new every day!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Languages:** JavaScript, TypeScript, Java  
+- **Frameworks:** React, Node.js, Express  
+- **Tools:** Git, Docker, VS Code, IntelliJ IDEA
+
+---
+
+## 🌱 Currently Learning
+GraphQL, microservices, and new frontend approaches.
+
+---
+
+## 📂 Pet Projects
+- [Calculator](https://github.com/whitefox-lab/learn-JS-Calculator) — a beautiful iPhone calculator clone  
+- [Weather Widget](https://github.com/whitefox-lab/learn-jQuery) — a stylish widget with a parallax effect
+
+---
+
+## 📫 Contact
+- [Telegram](https://t.me/whitefox3d)  
+- [Email](mailto:vk_whitefox@icloud.com)
+
+---
+
+## ✨ A little about me
+"Coding with ❤️ and learning every day!"  
+
+![whitefox](whitefoxheart.jpg)
